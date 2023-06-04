@@ -46,7 +46,3 @@ Las contribuciones son bienvenidas. Si encuentras algún problema o tienes algun
 ## Licencia
 
 Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
-
-```
-
-Recuerda reemplazar "tu-usuario" en la URL del repositorio con tu nombre de usuario de GitHub. También puedes agregar secciones adicionales según sea necesario, como requisitos del sistema, ejemplos de uso, capturas de pantalla, etc.
