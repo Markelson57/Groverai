@@ -105,8 +105,7 @@ Este proyecto está bajo licencia MIT.
 ## Contacto
 
 Markelson - YouTuber / Streamer / Programador  
-Correo: tuemail@ejemplo.com  
-GitHub: [github.com/markelson57](https://github.com/markelson57)
+GitHub: [github.com/Markelson57](https://github.com/Markelson57)
 
 ---
 
