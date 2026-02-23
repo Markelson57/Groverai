@@ -6,7 +6,7 @@ import pyaudio
 import json
 
 class VoiceIO:
-    def __init__(self, wake_word="isa"):
+    def __init__(self, wake_word="Grover"):
         self.wake_word = wake_word.lower()
         self.tts_engine = pyttsx3.init()
         self.recognizer = sr.Recognizer()
@@ -56,3 +56,4 @@ class VoiceIO:
             except sr.RequestError as e:
                 print(f"[Error servicio voz]: {e}")
                 return None
+
